@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>SEOKHUN Blog</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>최석훈의 개발 블로그</description>
+      <language>en-us</language>
+      <managingEditor>xocoolree@gmail.com (CHOI SEOK HUN)</managingEditor>
+      <webMaster>xocoolree@gmail.com (CHOI SEOK HUN)</webMaster>
+      <lastBuildDate>Mon, 24 Oct 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/github-action/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/next_blog_making</guid>
+    <title>Next.js 블로그 템플릿을 이용해서 나만의 블로그 만들기</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/next_blog_making</link>
+    <description>Next.js, github action, github page을 이용해서 나만의 블로그를 만들어보자.</description>
+    <pubDate>Mon, 24 Oct 2022 00:00:00 GMT</pubDate>
+    <author>xocoolree@gmail.com (CHOI SEOK HUN)</author>
+    <category>Next.js</category><category>github action</category><category>github page</category>
+  </item>
+
+    </channel>
+  </rss>
