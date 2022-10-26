@@ -1,16 +1,20 @@
 ---
-name: Tails Azimuth
+name: CHOI SEOK HUN
 avatar: /static/images/avatar.png
 occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+company: Chung-ang University
+email: xocoolree@gmail.com
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/seokunee
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+### 👍 **Front-End Developer**
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+- 이용자들의 입장에서 생각할 줄 아는 개발자
+- 사람들을 끌어들이는 서비스를 생각하고 만들줄 아는 개발자
+- 이슈를 찾는 개발자
+- 같이 일 하고 싶은 개발자
+- 새로운 것을 배우는데 두려움이 없는 개발자
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+이런 개발자가 되고 싶고 노력 중입니다.
