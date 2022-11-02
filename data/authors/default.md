@@ -4,8 +4,8 @@ avatar: /static/images/avatar.png
 occupation: Professor of Atmospheric Science
 company: Chung-ang University
 email: xocoolree@gmail.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
+twitter:
+linkedin:
 github: https://github.com/seokunee
 ---
 
