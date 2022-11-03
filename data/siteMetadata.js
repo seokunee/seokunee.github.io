@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'SEOKHUN Blog',
   author: 'CHOI SEOK HUN',
-  headerTitle: 'SEOKHUN BLOG',
+  headerTitle: 'SEOKHUN 개발일지',
   description: '최석훈의 개발 블로그',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -12,10 +12,10 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'xocoolree@gmail.com',
   github: 'https://github.com/seokunee',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  twitter: '',
+  facebook: '',
+  youtube: '',
+  linkedin: '',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
